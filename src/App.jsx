@@ -32,13 +32,12 @@ function App() {
           <h1 className="hero-title">Joshua Clyford Dadung</h1>
 
           <h2 className="hero-role">
-            Information Systems Student & Web Developer
+            Information Systems Graduate
           </h2>
 
           <p className="hero-description">
-            Passionate about Web Development,
-            UI/UX Design, Dashboard Analytics,
-            and Modern Technology.
+            Passionate about Web Development,UI Design, Social Media, Business Intelligence,
+            and Creative Digital.
           </p>
 
           <div className="hero-buttons">
@@ -70,28 +69,29 @@ function App() {
             <h3>Joshua Clyford Dadung</h3>
 
             <p className="about-description">
-              Saya merupakan lulusan Universitas Klabat sarjana ilmu komputer jurusan sistem informasi yang memiliki fokus pada bagian UI Design, Multimedia, Digital Marketing, dan Social media Analytics. Saya memiliki kemampuan berkomunikasi yang baik, disiplin, serta mampu bertanggung jawab untuk mencapai tujuan pekerjaan. Secara langsung saya bisa bekerja secara personal maupun tim, teliti dalam menganalisis, serta berorientasi pada solusi dan hasil.
+              Saya merupakan lulusan Universitas Klabat sarjana ilmu komputer jurusan sistem informasi yang memiliki fokus pada bagian UI Design, Multimedia, Digital Marketing,Business Intelligence, dan Social media Analytics. Saya memiliki kemampuan berkomunikasi yang baik, disiplin, serta mampu bertanggung jawab untuk mencapai tujuan pekerjaan. Secara langsung saya bisa bekerja secara personal maupun tim, teliti dalam menganalisis, serta berorientasi pada solusi dan hasil.
             </p>
 
             <div className="about-info">
               <div className="info-card">
                 <span>🎓 Pendidikan</span>
                 <p>Universitas Klabat</p>
+                <p>S1 Ilmu Komputer - Sistem Informasi</p>
               </div>
 
               <div className="info-card">
                 <span>💻 Bidang</span>
-                <p>Web Developer</p>
+                <p>Creative Digital</p>
               </div>
 
               <div className="info-card">
                 <span>📍 Lokasi</span>
-                <p>Indonesia</p>
+                <p>Kota Tangerang, Green Village. Jln KH Hasyim Ashari</p>
               </div>
 
               <div className="info-card">
-                <span>🚀 Fokus</span>
-                <p>Frontend & Dashboard</p>
+                <span>🚀 Usia</span>
+                <p>22 Tahun</p>
               </div>
             </div>
           </div>
@@ -117,7 +117,7 @@ function App() {
             <div className="progress-item">
               <div className="progress-header">
                 <span>CSS</span>
-                <span>85%</span>
+                <span>75%</span>
               </div>
               <div className="progress-bar">
                 <div className="progress-fill css"></div>
@@ -127,7 +127,7 @@ function App() {
             <div className="progress-item">
               <div className="progress-header">
                 <span>JavaScript</span>
-                <span>75%</span>
+                <span>70%</span>
               </div>
               <div className="progress-bar">
                 <div className="progress-fill js"></div>
@@ -157,7 +157,7 @@ function App() {
             <div className="progress-item">
               <div className="progress-header">
                 <span>Video Editing</span>
-                <span>82%</span>
+                <span>88%</span>
               </div>
               <div className="progress-bar">
                 <div className="progress-fill video"></div>
